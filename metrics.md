@@ -102,3 +102,8 @@
 ## monitoring endpoint
 
 # application
+## Connection db pool
+1. Размер пула
+2. Кол-во занятых коннекшенов
+## JPA Provider
+1. Кол-во и время выполнения транзакций
